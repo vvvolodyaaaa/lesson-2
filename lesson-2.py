@@ -23,5 +23,5 @@ elif a == "insert":
         lst.insert(c, int(d))
     elif b == "str":
         lst.insert(c, d)
-
+print(1)
 print(lst)
